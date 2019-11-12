@@ -1,0 +1,1 @@
+﻿<noise> để đảm bảo tính liên kết và đồng bộ trong sự phát 
